@@ -1,2 +1,0 @@
-# trash-os
-SMC os
