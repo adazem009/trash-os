@@ -1,2 +1,2 @@
-# crappy-os
-SMC crappy os
+# trash-os
+SMC os
