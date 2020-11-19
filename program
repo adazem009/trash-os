@@ -6,4 +6,11 @@ read/"Uzer input","uzer"
 if/["legal" == uzer]
   print/"copyright: miNepozzu 2o2o all rights in de trash bin",\n
 endif
+if/["run" == uzer]
+    getlocation/"loc"
+    cd/loc
+    read/"File to wun","wun"
+    run/wun
+endif
+//add commands here
 endloop
