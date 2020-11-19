@@ -1,0 +1,9 @@
+clear
+set/"info","Crappy Os"/"uzer",0
+print/"Welcum to ",info,\n
+while/[1]
+read/"Uzer input","uzer"
+if/["legal" == uzer]
+  print/"copyright: miNepozzu 2o2o all rights in de trash bin",\n
+endif
+endloop
